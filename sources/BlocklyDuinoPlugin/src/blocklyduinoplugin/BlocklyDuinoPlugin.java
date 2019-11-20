@@ -34,7 +34,7 @@ public class BlocklyDuinoPlugin implements Tool {
 
     private final int JFXPANEL_WIDTH_INT = 1024;
     private final int JFXPANEL_HEIGHT_INT = 768;       
-    public String portId = Preferences.get("serial.port"); 
+    public String portId = Preferences.get("serial.port");
     /**
      * @param args the command line arguments
      */

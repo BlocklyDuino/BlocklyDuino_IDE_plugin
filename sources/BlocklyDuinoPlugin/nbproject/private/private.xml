@@ -2,6 +2,10 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/F:/Logiciels/Arduino_graphique/BlocklyDuino_IDE_plugin/sources/BlocklyDuinoPlugin/src/blocklyduinoplugin/BlocklyDuinoPlugin.java</file>
+            <file>file:/F:/Logiciels/Arduino_graphique/BlocklyDuino_IDE_plugin/sources/BlocklyDuinoPlugin/src/blocklyduinoplugin/BlocklyDuinoServer.java</file>
+            <file>file:/F:/Logiciels/Arduino_graphique/BlocklyDuino_IDE_plugin/sources/BlocklyDuinoPlugin/src/blocklyduinoplugin/Browser.java</file>
+        </group>
     </open-files>
 </project-private>
